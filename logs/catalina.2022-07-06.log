@@ -1,0 +1,292 @@
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 06, 2022 09:58:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\b
+07 06, 2022 10:03:28 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /b has finish
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:03:58 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:03:59 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\b
+07 06, 2022 10:03:59 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /b has finish
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\b
+07 06, 2022 10:04:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /b has finish
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\b
+07 06, 2022 10:05:17 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /b has finish
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:/Users/DELL/Desktop/JerryMouse/JerryMouse/stc/webapps
+07 06, 2022 10:07:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /stc/webapps has finish
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:/Users/DELL/Desktop/JerryMouse/JerryMouse/stc/webapps
+07 06, 2022 10:09:43 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /stc/webapps has finish
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:/Users/DELL/Desktop/JerryMouse/JerryMouse/stc/webapps
+07 06, 2022 10:15:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /stc/webapps has finish
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:/Users/DELL/Desktop/JerryMouse/JerryMouse/stc/webapps
+07 06, 2022 10:16:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /stc/webapps has finish
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:21:44 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:21:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:/Users/DELL/Desktop/JerryMouse/JerryMouse/stc/webapps
+07 06, 2022 10:21:45 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /stc/webapps has finish
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:/Users/DELL/Desktop/JerryMouse/JerryMouse/stc/webapps
+07 06, 2022 10:23:57 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /stc/webapps has finish
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server built:		2022-5-31
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Server number:		1.0.1
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Name	:		Windows 11
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : OS Version	:		10.0
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Architecture:		amd64
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : Java Home:		C:\Program Files\Java\javase18
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM version:		18+36-2087
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.Bootstrap logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:/Users/DELL/Desktop/JerryMouse/JerryMouse/stc/webapps
+07 06, 2022 10:24:55 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /stc/webapps has finish
