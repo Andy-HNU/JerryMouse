@@ -1,0 +1,448 @@
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 2ms
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:51)
+	at cn.andy.JerryMouse.catalina.Connector.run(Connector.java:45)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:21:44 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:51)
+	at cn.andy.JerryMouse.catalina.Connector.run(Connector.java:45)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 10ms
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:51)
+	at cn.andy.JerryMouse.catalina.Connector.run(Connector.java:45)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:31:40 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:51)
+	at cn.andy.JerryMouse.catalina.Connector.run(Connector.java:45)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 11 ms
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:46)
+	at cn.andy.JerryMouse.catalina.Connector.start(Connector.java:40)
+	at cn.andy.JerryMouse.catalina.Service$1.run(Service.java:60)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:33:36 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:46)
+	at cn.andy.JerryMouse.catalina.Connector.start(Connector.java:40)
+	at cn.andy.JerryMouse.catalina.Service$1.run(Service.java:60)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:46)
+	at cn.andy.JerryMouse.catalina.Connector.start(Connector.java:40)
+	at cn.andy.JerryMouse.catalina.Service$1.run(Service.java:60)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:36:23 上午 cn.andy.JerryMouse.catalina.Connector func
+ERROR: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:640)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:392)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:167)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:46)
+	at cn.andy.JerryMouse.catalina.Connector.start(Connector.java:40)
+	at cn.andy.JerryMouse.catalina.Service$1.run(Service.java:60)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 17, 2022 08:37:33 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 9ms
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 9 ms
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 17, 2022 08:53:58 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 17, 2022 08:54:13 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 17, 2022 08:54:16 上午 cn.andy.JerryMouse.catalina.HttpProcessor execute
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.andy.JerryMouse.catalina.HttpProcessor.execute(HttpProcessor.java:33)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:52)
+	at cn.andy.JerryMouse.catalina.Connector.start(Connector.java:40)
+	at cn.andy.JerryMouse.catalina.Service$1.run(Service.java:60)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)

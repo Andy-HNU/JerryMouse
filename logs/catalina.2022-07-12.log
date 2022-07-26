@@ -1,0 +1,428 @@
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 15:09:33 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 15:46:42 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 15:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 15:48:04 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 15:49:13 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 15:49:24 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 15:49:24 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 15:49:24 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 15:49:24 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 15:49:24 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 15:49:24 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 15:49:25 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 15:49:47 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 16:00:28 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 16:04:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 16:06:08 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 16:08:00 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 16:09:18 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 16:11:27 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 12, 2022 16:12:01 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 12, 2022 16:12:03 下午 cn.andy.JerryMouse.catalina.Server func
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.andy.JerryMouse.catalina.Server.func(Server.java:62)
+	at cn.andy.JerryMouse.catalina.Server$1.run(Server.java:35)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)

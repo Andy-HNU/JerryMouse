@@ -1,0 +1,617 @@
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 100 ms
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 10 ms
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 0 ms
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 11:02:09 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 80 ms
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 0 ms
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 0 ms
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 11:03:12 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 90 ms
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 10 ms
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 0 ms
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 11:04:02 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 90 ms
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 0 ms
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 0 ms
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 11:17:01 上午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 110 ms
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 0 ms
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 10 ms
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 14:47:29 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 100 ms
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 10 ms
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 0 ms
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 14:47:51 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 14:47:53 下午 cn.andy.JerryMouse.catalina.HttpProcessor execute
+ERROR: No such method: [doGe2341243t]
+cn.hutool.core.exceptions.UtilException: No such method: [doGe2341243t]
+	at cn.hutool.core.util.ReflectUtil.invoke(ReflectUtil.java:809)
+	at cn.andy.JerryMouse.servlets.InvokerServlet.service(InvokerServlet.java:44)
+	at cn.andy.JerryMouse.catalina.HttpProcessor.execute(HttpProcessor.java:38)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:52)
+	at cn.andy.JerryMouse.catalina.Connector.start(Connector.java:40)
+	at cn.andy.JerryMouse.catalina.Service$1.run(Service.java:60)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 96 ms
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 3 ms
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 1 ms
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 1ms
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 15:11:26 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 88 ms
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 3 ms
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 1 ms
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 1ms
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 11 ms
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 15:30:55 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /FuncA has finish in 102 ms
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /FuncA has finish
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /j2ee has finish in 2 ms
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\j2ee
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /j2ee has finish
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application / has finish in 0 ms
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\ROOT
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application / has finish
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context deploy
+INFO : Deployment of web application /A1 has finish in 0 ms
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deploying web application directory C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Context <init>
+INFO : Deployment of web application /A1 has finish
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server Version:		JerryMouse1.0.1
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server built:		2022-5-31
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Server number:		1.0.1
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Name	:		Windows 11
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : OS Version	:		10.0
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Architecture:		amd64
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : Java Home:		E:\WORK - JAVA\JAVA-JDK-18
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM version:		18.0.1.1+2-6
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server logJVM
+INFO : JVM vendor:		java.vm.specification.vendor
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Service init
+INFO : Initializing Service [Catalina] in 0ms
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Server start
+INFO : Server startup in 10 ms
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+07 22, 2022 15:31:17 下午 cn.andy.JerryMouse.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+07 22, 2022 15:31:23 下午 cn.andy.JerryMouse.catalina.HttpProcessor execute
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.andy.JerryMouse.servlets.DefaultServlet.service(DefaultServlet.java:47)
+	at cn.andy.JerryMouse.catalina.HttpProcessor.execute(HttpProcessor.java:43)
+	at cn.andy.JerryMouse.catalina.Connector.func(Connector.java:52)
+	at cn.andy.JerryMouse.catalina.Connector.start(Connector.java:40)
+	at cn.andy.JerryMouse.catalina.Service$1.run(Service.java:60)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)

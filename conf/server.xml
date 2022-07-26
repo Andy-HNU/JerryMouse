@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<Server>
+    <Service name="Catalina">
+        <Connector port = "18080" />
+        <Connector port = "18081" />
+        <Connector port = "18082" />
+
+        <Engine defaultHost="localhost">
+            <Host name = "localhost">
+                <Context path="/A1" docBase="C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1" />
+                <Context path="/javaWeb4Jerry" docBase="C:\Users\DELL\Desktop\JerryMouse\Test\javaWeb4Jerry\web"/>
+            </Host>
+        </Engine>
+    </Service>
+</Server>
