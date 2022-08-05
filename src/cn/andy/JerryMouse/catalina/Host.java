@@ -2,6 +2,7 @@ package cn.andy.JerryMouse.catalina;
 
 import cn.andy.JerryMouse.util.Constant;
 import cn.andy.JerryMouse.util.ServerXmlUtil;
+import cn.hutool.log.LogFactory;
 
 import java.io.File;
 import java.util.HashMap;
@@ -47,12 +48,23 @@ public class Host {// 返回一个通过ContextMap 查询 path 返回 context
             path = "/" + path;
         }
         String docBase = folder.getAbsolutePath();
-        Context context = new Context(path,docBase);
+        Context context = new Context(path,docBase,this,true);
         this.contextMap.put(context.getPath(),context);
     }
 
+    public void reload(Context context){
+        LogFactory.get().info("Reloading Context with name [{}] has started",context.getPath());
+        String path = context.getPath();
+        String docBase = context.getDocBase();
+        boolean reloadable = context.getReloadable();
+        context.stop();
+        contextMap.remove(path);
+        Context newContext = new Context(path,docBase,this,reloadable);
+        contextMap.put(path,newContext);
+        LogFactory.get().info("Reloading Context with name [{}] has finished",context.getPath());
+    }
     private void scanContextsInServerXML(){
-        List<Context> contexts = ServerXmlUtil.getContexts();
+        List<Context> contexts = ServerXmlUtil.getContexts(this);
         for (Context context : contexts){
             System.out.println("scanContextInServerXML path:" + context.getPath());
             this.contextMap.put(context.getPath(),context);

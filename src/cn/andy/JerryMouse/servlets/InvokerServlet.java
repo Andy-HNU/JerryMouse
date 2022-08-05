@@ -6,6 +6,7 @@ import cn.andy.JerryMouse.http.Request;
 import cn.andy.JerryMouse.http.Response;
 import cn.andy.JerryMouse.util.Constant;
 import cn.hutool.core.util.ReflectUtil;
+import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
@@ -45,10 +46,10 @@ public class InvokerServlet extends HttpServlet {
             Class<?> servletClass = context.getWebappClassLoader().loadClass(servletClassName);
             System.out.println("servletClass:" + servletClass);
             System.out.println("servletClassLoader:" + servletClass.getClassLoader());
-            Object servlet = ReflectUtil.newInstance(servletClass);
+            Object servlet = context.getServlet(servletClass);
             ReflectUtil.invoke(servlet, "service",request,response);
             response.setStatus(Constant.CODE_200);
-        } catch (ClassNotFoundException e) {
+        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | ServletException e) {
             throw new RuntimeException(e);
         }
     }

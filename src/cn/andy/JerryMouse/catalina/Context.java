@@ -3,17 +3,25 @@ package cn.andy.JerryMouse.catalina;
 import cn.andy.JerryMouse.classloader.CommonClassLoader;
 import cn.andy.JerryMouse.classloader.WebappClassLoader;
 import cn.andy.JerryMouse.exception.WebConfigDuplicatedException;
+import cn.andy.JerryMouse.http.AplicationContext;
+import cn.andy.JerryMouse.http.StandardServletConfig;
 import cn.andy.JerryMouse.util.ContextXmlUtil;
+import cn.andy.JerryMouse.watcher.ContextFileChangeWatcher;
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.core.date.TimeInterval;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.log.LogFactory;
+import jakarta.servlet.ServletConfig;
+import jakarta.servlet.ServletException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import jakarta.servlet.ServletContext;
+
+import jakarta.servlet.http.HttpServlet;
 import java.io.File;
 import java.util.*;
 
@@ -22,28 +30,36 @@ public class Context {
     // path: /FolderName ; docBase: FolderName的绝对路径 ---> 在BootStrap内进行构建
     private String path;
     private String docBase;
-
     private WebappClassLoader webappClassLoader;
-
     private File contextWebXmlFile;
+    private Host host;
+    private boolean reloadable;
+    private ContextFileChangeWatcher contextFileChangeWatcher;
+    private ServletContext servletContext;
 
     private Map<String,String> url_servletClassName;
     private Map<String,String> url_servletName;
     private Map<String,String> servletName_className;
     private Map<String,String> className_servletName;
-
-    public Context(String path, String docBase){
+    private Map<Class<?>, HttpServlet> servletPool;
+    private Map<String, Map<String,String>> servlet_className_initParams;
+    public Context(String path, String docBase, Host host, boolean reloadable) {
         TimeInterval timeInterval = DateUtil.timer();
+
         this.path = path;
         this.docBase = docBase;
+        this.host = host;
+        this.reloadable = reloadable;
 
         this.contextWebXmlFile = new File(docBase, ContextXmlUtil.getWatchedResource());
-
+        this.servletContext = new AplicationContext(this);
 //        System.out.println("contextWebXmlFile: " + contextWebXmlFile.getAbsolutePath());
         this.url_servletName = new HashMap<>();
         this.servletName_className = new HashMap<>();
         this.className_servletName = new HashMap<>();
         this.url_servletClassName = new HashMap<>();
+        this.servletPool = new HashMap<>();
+        this.servlet_className_initParams = new HashMap<>();
         /*
          * 提问：这里的commonClassLoader 是 通过 CurrentThread.getContextClassLoader() 获得的，
          *
@@ -80,12 +96,17 @@ public class Context {
         String xml = FileUtil.readUtf8String(contextWebXmlFile);
         Document document = Jsoup.parse(xml);
         parseServletMapping(document);
+        parseServletInitParams(document);
     }
 
     private void deploy(){
         TimeInterval timeInterval = DateUtil.timer();
         LogFactory.get().info("Deploying web application directory {}", this.docBase);
         init();
+        if(reloadable){
+            contextFileChangeWatcher = new ContextFileChangeWatcher(this);
+            contextFileChangeWatcher.start();
+        }
         LogFactory.get().info("Deployment of web application {} has finish in {} ms",this.path, timeInterval.intervalMs());
 
     }
@@ -98,8 +119,36 @@ public class Context {
 
     public void setDocBase(String docBase){this.docBase = docBase;}
 
+    public boolean getReloadable(){return this.reloadable;}
+
+    public ServletContext getServletContext(){return this.servletContext;}
+    public void setReloadable(boolean reloadable){this.reloadable = reloadable;}
+
     public WebappClassLoader getWebappClassLoader(){return this.webappClassLoader;}
 
+    public void reload(){
+        host.reload(this);
+    }
+    public void stop(){
+        webappClassLoader.stop();
+        contextFileChangeWatcher.stop();
+        destroyServlets();
+    }
+
+    public synchronized HttpServlet getServlet(Class<?> clazz) throws InstantiationException, IllegalAccessException, ServletException {
+        HttpServlet servlet = servletPool.get(clazz);
+        if(servlet == null){
+            servlet = (HttpServlet) clazz.newInstance();
+            ServletContext servletContext = this.getServletContext();
+            String ClassName = clazz.getName();
+            String servletName = servletName_className.get(ClassName);
+            Map<String, String> initParams = servlet_className_initParams.get(ClassName);
+            ServletConfig servletConfig = new StandardServletConfig(servletContext, initParams, servletName);
+            servlet.init(servletConfig);
+            servletPool.put(clazz,servlet);
+        }
+        return servlet;
+    }
     private void parseServletMapping(Document document){
         // 解析web.xml文件，获取servlet的映射信息
         Elements mappingurlElments = document.select("servlet-mapping url-pattern");
@@ -124,6 +173,24 @@ public class Context {
         }
     }
 
+    public void parseServletInitParams(Document d){
+        Elements servletClassNameElements = d.select("servlet-class");
+        for (Element servletClassNameElement : servletClassNameElements){
+            String servletClassName = servletClassNameElement.text();
+            Elements initParamElements = servletClassNameElement.parent().select("init-param");
+            if (initParamElements.size() == 0){
+                continue;
+            }
+            Map<String,String> initParams = new HashMap<>();
+            for(Element element : initParamElements){
+                String paramName = element.select("param-name").first().text();
+                String paramValue = element.select("param-value").first().text();
+                initParams.put(paramName,paramValue);
+            }
+            servlet_className_initParams.put(servletClassName,initParams);
+        }
+        System.out.println("class_name_init_params"+servlet_className_initParams);
+    }
     private void checkDuplicated(Document document,String mapping,String desc) throws WebConfigDuplicatedException{
         Elements elements = document.select(mapping);
         List<String> contents = new ArrayList<>();
@@ -146,6 +213,12 @@ public class Context {
         checkDuplicated(document,"servlet servlet-class","servlet name 重复");
     }
 
+    private void destroyServlets(){
+        Collection<HttpServlet> servletCollections = servletPool.values();
+        for (HttpServlet servlet : servletCollections) {
+            servlet.destroy();
+        }
+    }
     public String getServletClassNameByUrl(String url){
         return url_servletClassName.get(url);
     }

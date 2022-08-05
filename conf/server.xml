@@ -8,7 +8,7 @@
         <Engine defaultHost="localhost">
             <Host name = "localhost">
                 <Context path="/A1" docBase="C:\Users\DELL\Desktop\JerryMouse\JerryMouse\src\webapps\FuncA\A1" />
-                <Context path="/javaWeb4Jerry" docBase="C:\Users\DELL\Desktop\JerryMouse\Test\javaWeb4Jerry\web"/>
+                <Context path="/javaWeb4Jerry" docBase="C:\Users\DELL\Desktop\JerryMouse\Test\javaWeb4Jerry\web" reloadable= "true"/>
             </Host>
         </Engine>
     </Service>

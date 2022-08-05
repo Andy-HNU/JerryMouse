@@ -127,8 +127,9 @@ public class TestJerryMouse {
     }
     @Test
     public void testJavawebHello() {
-        String html = getContentString("/javaWeb4Jerry/hello-HardCode-");
-        Assert.assertEquals(html,"Hello, World!");
+        String html1 = getContentString("/javaWeb4Jerry/hello-HardCode-");
+        String html2 = getContentString("/javaWeb4Jerry/hello-HardCode-");
+        Assert.assertEquals(html1,html2);
     }
 
     private String getContentString(String uri){

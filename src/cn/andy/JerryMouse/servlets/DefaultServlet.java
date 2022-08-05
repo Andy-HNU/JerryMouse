@@ -51,7 +51,7 @@ public class DefaultServlet extends HttpServlet {
         }
 
         String filename = StrUtil.removePrefix(uri, "/");
-        File file = FileUtil.file(context.getDocBase(), filename);
+        File file = FileUtil.file(request.getRealPath(filename));
 
         if (file.exists()) { //文件存在 - 发送文件内容
             byte [] bytes = FileUtil.readBytes(file);

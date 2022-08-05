@@ -1,16 +1,9 @@
 package cn.andy.JerryMouse.http;
 
-import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.UnsupportedEncodingException;
 import java.net.Socket;
 import java.nio.charset.StandardCharsets;
-import java.security.Principal;
-import java.util.Collection;
-import java.util.Enumeration;
-import java.util.Locale;
-import java.util.Map;
 
 import cn.andy.JerryMouse.catalina.Context;
 import cn.andy.JerryMouse.catalina.Engine;
@@ -19,7 +12,6 @@ import cn.andy.JerryMouse.catalina.Service;
 import cn.andy.JerryMouse.util.MiniBrowser;
 import cn.hutool.core.util.StrUtil;
 import jakarta.servlet.*;
-import jakarta.servlet.http.*;
 
 public class Request extends BaseRequest {
     private final String requestString;
@@ -64,6 +56,7 @@ public class Request extends BaseRequest {
         return new String(bytes, StandardCharsets.UTF_8);
     }
     private String parseHttpUri(String requestString2Uri){
+        System.out.println("67-Request's requestString2Uri: " + requestString2Uri);
         requestString2Uri = StrUtil.subBetween(requestString2Uri," "," ");
         if (!StrUtil.contains(requestString2Uri,'?')){
             return requestString2Uri;
@@ -102,8 +95,12 @@ public class Request extends BaseRequest {
         return method;
     }
 
-
-
+    public ServletContext getServletContext() {
+        return context.getServletContext();
+    }
+    public String getRealPath(String path) {
+        return context.getServletContext().getRealPath(path);
+    }
     public String getUri(){
         return this.uri;
     }

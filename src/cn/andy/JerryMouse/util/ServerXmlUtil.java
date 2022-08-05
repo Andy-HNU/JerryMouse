@@ -1,6 +1,7 @@
 package cn.andy.JerryMouse.util;
 
 import cn.andy.JerryMouse.catalina.*;
+import cn.hutool.core.convert.Convert;
 import cn.hutool.core.io.FileUtil;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -13,7 +14,7 @@ import java.util.List;
 
 
 public class ServerXmlUtil {
-    public static List<Context> getContexts() {
+    public static List<Context> getContexts(Host host) {
         List<Context> res = new ArrayList<>();
         String xml = FileUtil.readUtf8String(Constant.serverXmlFile);
         Document d = Jsoup.parse(xml); // 获得setver.xml 并生成对象
@@ -22,7 +23,8 @@ public class ServerXmlUtil {
         for (Element e : es){
             String Path = e.attr("path"); // 对<Context>检索
             String DocBase = e.attr("docBase");// 对<Context>检索
-            Context context = new Context(Path, DocBase);
+            boolean roadable = Convert.toBool(e.attr("reloadable"), true);// 对<Context>检索
+            Context context = new Context(Path, DocBase,host,roadable);
             res.add(context);
         }
         return res;
