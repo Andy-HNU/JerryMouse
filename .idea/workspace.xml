@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb723ad8-0f1a-4e86-8bc2-37ca2b0d283a" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/logs/catalina.2022-07-26.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/catalina.2022-07-27.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/http/AplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/http/StandardServletConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/servlets/BaseServletContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/watcher/ContextFileChangeWatcher.java" afterDir="false" />
+    <list default="true" id="fb723ad8-0f1a-4e86-8bc2-37ca2b0d283a" name="Changes" comment="增加Servlet生命过程可视化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/server.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/servlet-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/catalina" beforeDir="false" afterPath="$PROJECT_DIR$/logs/catalina" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/catalina/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/catalina/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/catalina/Host.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/catalina/Host.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/http/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/http/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/servlets/DefaultServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/servlets/DefaultServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/servlets/InvokerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/servlets/InvokerServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/test/TestJerryMouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/test/TestJerryMouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/util/ServerXmlUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/util/ServerXmlUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/webappservlet/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/cn/andy/JerryMouse/webappservlet/HelloServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JerryMouse/webapps/j2ee/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JerryMouse/webapps/j2ee/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/catalina/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/catalina/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/catalina/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/catalina/Host.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/http/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/http/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/servlets/DefaultServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/servlets/DefaultServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/servlets/InvokerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/servlets/InvokerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/test/TestJerryMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/test/TestJerryMouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/util/ServerXmlUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/util/ServerXmlUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/andy/JerryMouse/webappservlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/andy/JerryMouse/webappservlet/HelloServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/webapps/j2ee/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapps/j2ee/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -244,7 +219,7 @@
       <workItem from="1658889967382" duration="2152000" />
       <workItem from="1658905617730" duration="3981000" />
       <workItem from="1658967771226" duration="912000" />
-      <workItem from="1659681705639" duration="1525000" />
+      <workItem from="1659681705639" duration="3048000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1658827498748</created>
@@ -260,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658827672599</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加Servlet生命过程可视化">
+      <created>1659683352333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659683352333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +262,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <MESSAGE value="增加Servlet生命过程可视化" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加Servlet生命过程可视化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

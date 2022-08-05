@@ -11,6 +11,7 @@
             <param-name>site</param-name>
             <param-value>http://Jerry.cn(servlet)</param-value>
         </init-param>
+        <load-on-startup>true</load-on-startup>s
     </servlet>
 
     <servlet-mapping>

@@ -43,6 +43,8 @@ public class Context {
     private Map<String,String> className_servletName;
     private Map<Class<?>, HttpServlet> servletPool;
     private Map<String, Map<String,String>> servlet_className_initParams;
+
+    private List<String> loadOnStartupServletClassName;
     public Context(String path, String docBase, Host host, boolean reloadable) {
         TimeInterval timeInterval = DateUtil.timer();
 
@@ -60,6 +62,7 @@ public class Context {
         this.url_servletClassName = new HashMap<>();
         this.servletPool = new HashMap<>();
         this.servlet_className_initParams = new HashMap<>();
+        this.loadOnStartupServletClassName = new ArrayList<>();
         /*
          * 提问：这里的commonClassLoader 是 通过 CurrentThread.getContextClassLoader() 获得的，
          *
@@ -82,7 +85,7 @@ public class Context {
 
 
     }
-
+    //----------------------------------------------Context Init--------------------------------------------------------
     private void init(){
         if(!contextWebXmlFile.exists()){
             return;
@@ -95,8 +98,12 @@ public class Context {
         }
         String xml = FileUtil.readUtf8String(contextWebXmlFile);
         Document document = Jsoup.parse(xml);
+
         parseServletMapping(document);
         parseServletInitParams(document);
+
+        parseLoadOnStartup(document);
+        handleLoadOnStartup();
     }
 
     private void deploy(){
@@ -110,45 +117,9 @@ public class Context {
         LogFactory.get().info("Deployment of web application {} has finish in {} ms",this.path, timeInterval.intervalMs());
 
     }
+    //----------------------------------------------Context Init--------------------------------------------------------
 
-    public String getPath(){return this.path;}
-
-    public String getDocBase(){return this.docBase;}
-
-    public void setPath(String path){this.path = path;}
-
-    public void setDocBase(String docBase){this.docBase = docBase;}
-
-    public boolean getReloadable(){return this.reloadable;}
-
-    public ServletContext getServletContext(){return this.servletContext;}
-    public void setReloadable(boolean reloadable){this.reloadable = reloadable;}
-
-    public WebappClassLoader getWebappClassLoader(){return this.webappClassLoader;}
-
-    public void reload(){
-        host.reload(this);
-    }
-    public void stop(){
-        webappClassLoader.stop();
-        contextFileChangeWatcher.stop();
-        destroyServlets();
-    }
-
-    public synchronized HttpServlet getServlet(Class<?> clazz) throws InstantiationException, IllegalAccessException, ServletException {
-        HttpServlet servlet = servletPool.get(clazz);
-        if(servlet == null){
-            servlet = (HttpServlet) clazz.newInstance();
-            ServletContext servletContext = this.getServletContext();
-            String ClassName = clazz.getName();
-            String servletName = servletName_className.get(ClassName);
-            Map<String, String> initParams = servlet_className_initParams.get(ClassName);
-            ServletConfig servletConfig = new StandardServletConfig(servletContext, initParams, servletName);
-            servlet.init(servletConfig);
-            servletPool.put(clazz,servlet);
-        }
-        return servlet;
-    }
+    //----------------------------------------------Context Parse And related Functoins---------------------------------
     private void parseServletMapping(Document document){
         // 解析web.xml文件，获取servlet的映射信息
         Elements mappingurlElments = document.select("servlet-mapping url-pattern");
@@ -191,6 +162,15 @@ public class Context {
         }
         System.out.println("class_name_init_params"+servlet_className_initParams);
     }
+
+    public void parseLoadOnStartup(Document d){
+        Elements loadOnStartupElements = d.select("load-on-startup");
+        for (Element loadOnStartupElement : loadOnStartupElements){
+            String servletClassName = loadOnStartupElement.parent().select("servlet-class").first().text();
+            loadOnStartupServletClassName.add(servletClassName);
+        }
+    }
+
     private void checkDuplicated(Document document,String mapping,String desc) throws WebConfigDuplicatedException{
         Elements elements = document.select(mapping);
         List<String> contents = new ArrayList<>();
@@ -212,6 +192,67 @@ public class Context {
         checkDuplicated(document,"servlet servlet-name","servlet name 重复");
         checkDuplicated(document,"servlet servlet-class","servlet name 重复");
     }
+    //----------------------------------------------Context Parse And related Functoins---------------------------------
+
+    //-------------------------------Class Loader Related Functions-----------------------------------------------------
+    public void handleLoadOnStartup(){
+        for (String loadOnStartupServletClassName : loadOnStartupServletClassName) {
+
+            try {
+                Class<?> clazz = webappClassLoader.loadClass(loadOnStartupServletClassName);
+                getServlet(clazz);
+            } catch (ClassNotFoundException | ServletException | InstantiationException | IllegalAccessException e) {
+                throw new RuntimeException(e);
+            }
+
+        }
+    }
+
+    //-------------------------------Class Loader Related Functions-----------------------------------------------------
+
+
+    //------------------------------Getter and Setter----------------------------------------
+    public String getServletClassNameByUrl(String url){
+        return url_servletClassName.get(url);
+    }
+
+    public String getPath(){return this.path;}
+
+    public String getDocBase(){return this.docBase;}
+
+    public void setPath(String path){this.path = path;}
+
+    public void setDocBase(String docBase){this.docBase = docBase;}
+
+    public boolean getReloadable(){return this.reloadable;}
+
+    public ServletContext getServletContext(){return this.servletContext;}
+
+    public void setReloadable(boolean reloadable){this.reloadable = reloadable;}
+
+    public WebappClassLoader getWebappClassLoader(){return this.webappClassLoader;}
+
+    public synchronized HttpServlet getServlet(Class<?> clazz) throws InstantiationException, IllegalAccessException, ServletException {
+        HttpServlet servlet = servletPool.get(clazz);
+        if(servlet == null){
+            servlet = (HttpServlet) clazz.newInstance();
+            ServletContext servletContext = this.getServletContext();
+            String ClassName = clazz.getName();
+            String servletName = servletName_className.get(ClassName);
+            Map<String, String> initParams = servlet_className_initParams.get(ClassName);
+            ServletConfig servletConfig = new StandardServletConfig(servletContext, initParams, servletName);
+            servlet.init(servletConfig);
+            servletPool.put(clazz,servlet);
+        }
+        return servlet;
+    }
+
+    //------------------------------Getter and Setter----------------------------------------
+
+    //------------------------------Destructor-----------------------------------------------
+    public void reload(){
+        host.reload(this);
+    }
 
     private void destroyServlets(){
         Collection<HttpServlet> servletCollections = servletPool.values();
@@ -219,8 +260,10 @@ public class Context {
             servlet.destroy();
         }
     }
-    public String getServletClassNameByUrl(String url){
-        return url_servletClassName.get(url);
+    public void stop(){
+        webappClassLoader.stop();
+        contextFileChangeWatcher.stop();
+        destroyServlets();
     }
-
+    //------------------------------Destructor-----------------------------------------------
 }
